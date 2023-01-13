@@ -1,0 +1,139 @@
+20221230_093337
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_151937
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230103_093214
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230103_103306
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230103_110821
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230103_111751
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230104_191639
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_191656
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_191832
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_191913
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_200455
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_200533
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_200832
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_201116
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_100442
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_100444
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_100446
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_101111
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_101235
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+

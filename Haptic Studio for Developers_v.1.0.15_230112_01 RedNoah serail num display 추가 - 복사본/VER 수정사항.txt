@@ -1,0 +1,47 @@
+Haptic Studio for Developers_v.1.0.14_230105_03 GUI Optimization
+GUI OPTIMIZATION 및 보드 재연결 Sequecne 수정
+
+v1.0.14_230106_01
+
+Trigger 단위 변경(기존us->ms)으로 인한 GUI 수정
+
+
+v.1.0.14_230106_03
+
+ SCOPE Y오토 스케일 추가
+
+
+v.1.0.14_230106_04
+
+Scope 지속시 오동장 수정중
+
+
+v.1.0.15_230111_01 SCOPE overrun 해결 
+
+scope overrun 해결
+추가사항
+1.get i2c scope data delay 추가 10ms(100ms로 설정시 cpu 성능이 떨어질 경우 fifo에 데이터가 쌓여 overrun이 더 쉽게 발생)
+2.overrun발생시 1.보드 데이터 수집 정지 ->2.버퍼 비우기 -> 3.데이터 수집 재시작 -> 4.get i2c data
+3.scope 시작전 버퍼 비우기 
+----
+해결 못 한 과제 
+1.pc가 절전 모드 진입시 usb전원에 문제가 발생하여 통시에 영향을 줌
+
+2.30분 이상 동작히 헤더 부분에 FF가 들어와 테스트가 종료되어 버림
+헤더 FF는 트리거모드에서 작동되는것이며 원리 204가 들어와야한다
+헤더 FF가 들어올때 어떤 데이터가 들어와있는지 확인이 필요
+A.데이터가 밀린경우(X)
+B.실제 보드에서 테스트를 종료하여 FF를 보낸경우(0)
+->데이터 정지 신호를 보낸 후 4 2 255 라는 피드백이 넘어와서 다음 데이터 취득에 영향을 주는것으로 판단
+50MS 를 사용 
+
+
+v.1.0.15_230111_03
+SCOPE Y SCALE 라디오 버튼 수정
+SCOPE X 스케일 삭제 무조건 AUTO SCALE 모드
+Launcher GUI fw ver 추가 
+SCOPE AUTOPLAYBACK 마우스 작동중 오류 수정
+
+
+v.1.0.15_230112_01
+RedNoah serail num display 추가

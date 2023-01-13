@@ -1,0 +1,1207 @@
+20220725_180150
+State : Update FW
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220725_180219
+State : Update FW
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220725_180233
+State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220725_180238
+State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220725_180243
+State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220725_180307
+State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220725_180318
+State : Update FW
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220725_180438
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180440
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180441
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180441
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180441
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180442
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180442
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180442
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180443
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180443
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180444
+State : BD Connection Error
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180520
+State : Connect to BD
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180522
+State : Connect to BD
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180522
+State : Connect to BD
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_180532
+State : Update FW
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220725_180623
+State : Check Edition
+Code : 1
+Source : (SubVI)Launcher_HTTP Simple Status Code Handler.vi->Launcher.vi 안에 문자열로부터 스캔 (arg 1)
+
+
+20220725_180751
+State : Check Edition
+Code : 1
+Source : (SubVI)Launcher_HTTP Simple Status Code Handler.vi->Launcher.vi 안에 문자열로부터 스캔 (arg 1)
+
+
+20220725_181231
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220725_181317
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20220725_181408
+Error State : FW Update Error
+Previous State : Update FW
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Firmware Update.vi->Launcher.vi 안에 VISA 읽기
+
+
+20220725_182350
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220725_182432
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 0
+Source : HTTP Status Code : 404
+HTTP Status Message : Not Found
+
+
+20220727_144957
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_144959
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_145001
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_150916
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_150918
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_150920
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_150948
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_150951
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_150953
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_151126
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_151128
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_151130
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_151150
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_151152
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_151154
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_151851
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_151853
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_151856
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220727_151930
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220727_151932
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220727_151934
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220728_192356
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220729_133625
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133644
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133721
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133816
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133906
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133922
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_133930
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : FW Checksum Error
+
+
+20220729_134602
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20220729_134722
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20220729_135138
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20220729_150202
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220729_150205
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220729_150207
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220729_150244
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20220729_150246
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20220729_150248
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20220729_150322
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20220729_150350
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20220729_165533
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220729_165550
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220729_165608
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220729_165932
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130446
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130456
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130525
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130531
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130701
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130723
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130756
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_130853
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20220908_131004
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221005_093632
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221005_093817
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_093954
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_094023
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_094052
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_094116
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_094203
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_095330
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 0
+Source : HTTP Status Code : 404
+HTTP Status Message : Not Found
+
+
+20221005_153806
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_153922
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154114
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154124
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154245
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154253
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154316
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154610
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154620
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154744
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 363514
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390004<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390004
+     Launcher.vi
+
+
+20221005_154909
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20221005_155731
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 0
+Source : HTTP Status Code : 404
+HTTP Status Message : Not Found
+
+
+20221005_155825
+Error State : Server Connection Error
+Previous State : Update FW
+Code : 0
+Source : HTTP Status Code : 404
+HTTP Status Message : Not Found
+
+
+20221005_160157
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20221005_160222
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20221005_160322
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20221005_160432
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20221005_160951
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20221005_163411
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221005_163420
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221005_163625
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221005_163640
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20221219_100314
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20221219_100316
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20221219_100318
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20221219_100429
+Error State : Server Connection Error
+Previous State : Check GUI Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390001<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390001
+     Launcher.vi
+
+
+20221219_100431
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390003<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390003
+     Launcher.vi
+
+
+20221219_100433
+Error State : Server Connection Error
+Previous State : Check Edition
+Code : 363500
+Source : LabVIEWHTTPClient.lvlib:GET.vi:390005<APPEND>
+
+<b>전체 호출 체인:</b>
+     LabVIEWHTTPClient.lvlib:GET.vi:390005
+     Launcher.vi
+
+
+20221230_154147
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_141102
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_141115
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_141127
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_141513
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_142237
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_190628
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230102_200652
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230103_102842
+Error State : Server Connection Error
+Previous State : Check FW Ver
+Code : 0
+Source : HTTP Status Code : 500
+HTTP Status Message : Internal Server Error
+
+
+20230103_142054
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807343
+Source : (SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 리소스 찾기
+
+
+20230104_184732
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_184753
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_184808
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230104_184828
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_181540
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_181541
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230110_145442
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230110_145450
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230110_145518
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+

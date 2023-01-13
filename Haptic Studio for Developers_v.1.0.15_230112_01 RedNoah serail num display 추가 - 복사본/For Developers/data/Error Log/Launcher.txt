@@ -1,0 +1,189 @@
+20230105_162732
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_162837
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_162857
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_162925
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_181220
+Error State : FW Update Error
+Previous State : Update FW
+Code : 0
+Source : No FW Checksum
+
+
+20230105_181726
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_181926
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183012
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183038
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183744
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183802
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183803
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_183921
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184205
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184301
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184403
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184644
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184709
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_184915
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230105_190951
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : 0
+Source : 
+
+
+20230106_132339
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807246
+Source : VISA Configure Serial Port (Instr).vi->(SubVI)Serial_FGV.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 프로퍼티 노드 (arg 1)
+
+
+20230106_143336
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230106_143343
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230106_143506
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230106_143517
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230106_143528
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+
+20230106_143536
+Error State : BD Connection Error
+Previous State : Connect to BD
+Code : -1073807339
+Source : (SubVI)Serial_FGV.vi->(SubVI)Serial_Read.vi->(SubVI)Serial_Write-Read.vi->(SubVI)System Command_Get Board Information.vi->(SubVI)Serial_COM port Check.vi->Launcher.vi 안에 VISA 읽기
+
+

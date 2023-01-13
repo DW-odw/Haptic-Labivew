@@ -1,0 +1,217 @@
+<Array>
+<Name>WF List</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>MEM_Layer_550Byte_22.92ms_1.00V</Val>
+</String>
+<Array>
+<Name>WF Seq</Name>
+<Dimsize>1</Dimsize>
+<Object>
+<Name>Waveform Obj.lvclass</Name>
+<NumLevels>3</NumLevels>
+<Class>Sine Wave.lvclass</Class>
+<Version>1.0.0.6</Version>
+<Version>1.0.0.3</Version>
+<Version>1.0.0.4</Version>
+<Cluster>
+<Name>Waveform Obj.lvclass</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>name</Name>
+<Val>Sine_440Hz_10.0Cycle_1.0Scale</Val>
+</String>
+<DBL>
+<Name>sampling rate</Name>
+<Val>24000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>voltage range</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Waveform Gen.lvclass</Name>
+<NumElts>6</NumElts>
+<DBL>
+<Name>frequency</Name>
+<Val>440.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>cycle</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<EW>
+<Name>repeat type</Name>
+<Choice>Normal</Choice>
+<Choice>Lin. Up</Choice>
+<Choice>Lin. Down</Choice>
+<Choice>Exp. Up</Choice>
+<Choice>Exp. Down</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>scale</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+</Cluster>
+</Object>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>MEM_Layer_360Byte_15.00ms_1.00V</Val>
+</String>
+<Array>
+<Name>WF Seq</Name>
+<Dimsize>1</Dimsize>
+<Object>
+<Name>Waveform Obj.lvclass</Name>
+<NumLevels>3</NumLevels>
+<Class>Sine Wave.lvclass</Class>
+<Version>1.0.0.6</Version>
+<Version>1.0.0.3</Version>
+<Version>1.0.0.4</Version>
+<Cluster>
+<Name>Waveform Obj.lvclass</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>name</Name>
+<Val>Sine_660Hz_10.0Cycle_1.0Scale</Val>
+</String>
+<DBL>
+<Name>sampling rate</Name>
+<Val>24000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>voltage range</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Waveform Gen.lvclass</Name>
+<NumElts>6</NumElts>
+<DBL>
+<Name>frequency</Name>
+<Val>660.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>cycle</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<EW>
+<Name>repeat type</Name>
+<Choice>Normal</Choice>
+<Choice>Lin. Up</Choice>
+<Choice>Lin. Down</Choice>
+<Choice>Exp. Up</Choice>
+<Choice>Exp. Down</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>scale</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+</Cluster>
+</Object>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>MEM_Layer_270Byte_11.25ms_1.00V</Val>
+</String>
+<Array>
+<Name>WF Seq</Name>
+<Dimsize>1</Dimsize>
+<Object>
+<Name>Waveform Obj.lvclass</Name>
+<NumLevels>3</NumLevels>
+<Class>Sine Wave.lvclass</Class>
+<Version>1.0.0.6</Version>
+<Version>1.0.0.3</Version>
+<Version>1.0.0.4</Version>
+<Cluster>
+<Name>Waveform Obj.lvclass</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>name</Name>
+<Val>Sine_880Hz_10.0Cycle_1.0Scale</Val>
+</String>
+<DBL>
+<Name>sampling rate</Name>
+<Val>24000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>voltage range</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Waveform Gen.lvclass</Name>
+<NumElts>6</NumElts>
+<DBL>
+<Name>frequency</Name>
+<Val>880.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>cycle</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<EW>
+<Name>repeat type</Name>
+<Choice>Normal</Choice>
+<Choice>Lin. Up</Choice>
+<Choice>Lin. Down</Choice>
+<Choice>Exp. Up</Choice>
+<Choice>Exp. Down</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>scale</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+</Cluster>
+</Object>
+</Array>
+</Cluster>
+</Array>

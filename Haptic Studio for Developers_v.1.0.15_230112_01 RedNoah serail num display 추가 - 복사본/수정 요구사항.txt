@@ -1,0 +1,5 @@
+230105
+황종근 선임
+1. script gpio 모드 확인 -> 현재 script gpio는 구현이 안되어있음
+
+2.trigger 단위 확인 요청
